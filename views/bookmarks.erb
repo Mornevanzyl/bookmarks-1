@@ -1,6 +1,9 @@
 <form action="/add_bookmark" method="post">
-  <input type="text" name="url">
-  <input type="submit" value="Add bookmark">
+<input type="text" name="title" placeholder="Enter title">
+<input type="text" name="url" placeholder="Enter url">
+<input type="submit" value="Add bookmark">
 </form>
+
+<a href="http://www.makers.tech">Makers Academy</a><br>
 
 <%= @bookmarks.join('<br>') %>

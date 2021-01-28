@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/salar/bookmarks/spec/bookmark_spec.rb": {
+      "/Users/Morne/Dropbox/Development/Ruby/salar/bookmarks/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -9,7 +9,6 @@
           null,
           1,
           null,
-          1,
           1,
           1,
           1,
@@ -32,11 +31,10 @@
           null
         ]
       },
-      "/Users/salar/bookmarks/spec/feature/bookmarks_page_spec.rb": {
+      "/Users/Morne/Dropbox/Development/Ruby/salar/bookmarks/spec/feature/bookmarks_page_spec.rb": {
         "lines": [
           1,
           1,
-          1,
           null,
           1,
           1,
@@ -49,6 +47,7 @@
           1,
           null,
           null,
+          1,
           1,
           1,
           1,
@@ -59,7 +58,7 @@
           null
         ]
       },
-      "/Users/salar/bookmarks/spec/feature/simple_index_spec.rb": {
+      "/Users/Morne/Dropbox/Development/Ruby/salar/bookmarks/spec/feature/simple_index_spec.rb": {
         "lines": [
           1,
           1,
@@ -70,6 +69,6 @@
         ]
       }
     },
-    "timestamp": 1611847375
+    "timestamp": 1611850296
   }
 }
