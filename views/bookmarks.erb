@@ -5,6 +5,10 @@
 </form>
 
 <a href="http://www.makers.tech">Makers Academy</a><br>
-<a href="<%=@bookmarks[5][1]%>"><%=@bookmarks[5][0]%></a><br>
 
-<%= @bookmarks.join('<a href="http://www.makers.tech">Makers Academy</a><br>') %>
+<ul>
+  <% @bookmarks.each do |bookmark| %>
+    <li><a href="<%= bookmark[1] %>"><%= bookmark[0] %></a></li>
+  <% end %>
+</ul>
+
